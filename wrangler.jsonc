@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "eca-worker",
+  "name": "kv-get-started",
   "main": "src/index.ts",
   "compatibility_date": "2025-12-28",
 
